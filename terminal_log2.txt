@@ -1,0 +1,27 @@
+1  sudo apt-get upgrade
+    2  sudo apt-get update
+    3  pip3 install smtplib
+    4  python3 --version
+    5  pip install smtip
+    6  pip install smtp
+    7  pip3 install smtp
+    8  sudo apt-get install smtp
+    9  pip install secure-smtplib
+   10  pip install email
+   11  pip3 install email
+   12  pip upgrade
+   13  pip install --upgrade pip
+   14  pip list
+   15  pip list | grep emaail
+   16  pip list | grep email
+   17  pip3 list | grep email
+   18  pip3 list
+   19  pip3 list | grep smtip
+   20  pip3 list | grep smtp
+   21  sudo shutdown
+   22  whoami
+   23  ~/.bash_history > ~/terminal_log.txt
+   24  cat ~/.bash_history
+   25  sudo restart
+   26  sudo shutdown
+   27  history
