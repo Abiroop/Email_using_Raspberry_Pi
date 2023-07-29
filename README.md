@@ -1,2 +1,2 @@
 # Email_using_Raspberry_Pi
-Emailing using a Raspberry Pi
+Please use all the commands given in the log
